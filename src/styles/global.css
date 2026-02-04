@@ -1,0 +1,62 @@
+/* Generated CSS - Variables */
+:root {
+  --color-1: #eeeeee;
+  --color-2: #334488;
+  --spacing-1: 120px 256px;
+  --spacing-2: 120px;
+  --spacing-3: 256px;
+  --spacing-4: 16.08px 0px;
+  --spacing-5: 16.08px;
+  --spacing-6: 16px 0px;
+  --spacing-7: 16px;
+}
+
+body {
+  grid-template-columns: none;
+  grid-template-rows: none;
+  margin: var(--spacing-1);
+  margin-top: var(--spacing-2);
+  margin-right: var(--spacing-3);
+  margin-bottom: var(--spacing-2);
+  margin-left: var(--spacing-3);
+  width: 768px;
+  max-width: none;
+  min-width: 0px;
+  height: 117.078px;
+  max-height: none;
+  min-height: 0px;
+  background-color: var(--color-1);
+  font-family: system-ui, sans-serif;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+h1 {
+  margin: var(--spacing-4);
+  margin-top: var(--spacing-5);
+  margin-bottom: var(--spacing-5);
+  height: 28px;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+p {
+  margin: var(--spacing-6);
+  margin-top: var(--spacing-7);
+  margin-bottom: var(--spacing-7);
+  height: 38px;
+}
+
+a {
+  display: inline;
+  width: auto;
+  height: auto;
+  color: var(--color-2);
+  border-color: var(--color-2);
+  text-decoration: underline;
+}
+
